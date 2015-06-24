@@ -1,0 +1,31 @@
+Print out of BST Node data:  'names.printTree();'
+
+Print out of BST Node data: 
+'names.delete(Mary, Smith)' 
+'names.printTree();'
+
+Print out of BST Node data: 
+'names.clearXY(Bob, Smith)' 
+'names.printTree();'
+
+Print out of BST Node data:  'animals.printTree();'
+
+Checks BST and asserts (goat,9) present: 'findXY(X x, Y y);'
+
+Checks BST and asserts (goat,12) not present: 'findXY(X x, Y y);'
+
+Searches and prints out all (X,Y) with target X: findAllXYatX ('rat');
+
+Searches and prints out all (X,Y) with target Y: findAllXYatY (3);
+
+Deletes target (X,Y) : delete (goat,9);
+
+Deletes target (X,Y) : delete (horse, 2);
+
+Deletes target (X) : delete (fox);
+
+Deletes target (X) : delete (rat);
+ERROR: It is only deleting two of the three!!!!!
+
+Searches and deletes all (X,Y) with target Y: removeAllXYatY (3);
+ERROR: Not working!!!!!

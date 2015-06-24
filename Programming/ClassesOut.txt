@@ -1,0 +1,4 @@
+jy1      yoga            jane            10      10      10      10      10        10.00
+lb1      badminton       liz             12      12      12      12      12        12.00
+mp2      pilates         mandy           10      12      15      15      14        13.20
+ls1      step            linda            9       7      12      14      15        11.40
